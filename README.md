@@ -1,2 +1,2 @@
 # shiny-parakeet
-This is my first every repository
+# this is my first ever repository
